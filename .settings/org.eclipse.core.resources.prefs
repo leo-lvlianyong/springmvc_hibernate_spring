@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/zyytest/model/User.java=UTF-8
+encoding//src/com/zyytest/service/UserService.java=UTF-8
+encoding//src/com/zyytest/web/controller/LoginController.java=UTF-8
+encoding//src/com/zyytest/web/controller/SystemContextFilter.java=UTF-8
+encoding/<project>=UTF-8
